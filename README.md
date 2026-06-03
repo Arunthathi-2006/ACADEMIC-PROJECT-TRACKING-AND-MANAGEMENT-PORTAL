@@ -57,11 +57,5 @@ Objective Definition
 Module Design
 Database Design
 
-**Author**
 
-Name: ARUNTHATHI S
-
-Institution: V.S.B. ENGINEERING COLLEGE
-
-Project Duration: June 2026
 
