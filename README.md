@@ -1,153 +1,120 @@
 # ACADEMIC PROJECT TRACKING AND MANAGEMENT PORTAL
 
-## 1. Project Background
+## Project Title Finalization
 
-The Academic Project Tracking and Management Portal is a web-based application developed to manage and monitor academic projects within educational institutions. The system provides a centralized platform for students, faculty guides, and administrators to efficiently handle project-related activities from proposal submission to final evaluation.
+**Project Title:** Academic Project Tracking and Management Portal
 
-## 2. Problem Analysis
+The project title was selected to represent a web-based system that manages the complete lifecycle of academic projects. The portal focuses on project proposal submission, guide allocation, progress monitoring, document management, review processes, and project evaluation. The title clearly reflects the system's purpose of tracking and managing academic projects efficiently within educational institutions.
 
-Many colleges still manage academic projects manually through paper documents, spreadsheets, and emails. This approach makes it difficult to track project progress, manage submissions, schedule reviews, and maintain proper communication between students and faculty. The proposed system addresses these challenges by providing a digital and organized project management platform.
+---
 
-## 3. Project Goals and Scope
+## Requirement Gathering
 
-### Primary Goal
+Academic projects are often managed manually through paper documents, spreadsheets, and email communication. This approach creates challenges such as difficulty in tracking project progress, maintaining project records, monitoring reviews, and coordinating between students and faculty guides.
 
-To develop a centralized web-based system that simplifies project submission, tracking, monitoring, and evaluation processes for educational institutions.
+The Academic Project Tracking and Management Portal was proposed to address these challenges by providing a centralized digital platform. The system enables efficient project management, secure document storage, real-time progress tracking, and streamlined communication among all stakeholders.
 
-### Functional Goals
+### Functional Requirements
 
-* To enable students to submit project proposals and reports online.
+* User Registration and Login
+* Project Proposal Submission
+* Guide Assignment
+* Progress Tracking
+* Document Upload and Storage
+* Review and Feedback Management
+* Project Evaluation
+* Report Generation
+
+### Non-Functional Requirements
+
+* User-Friendly Interface
+* Secure Data Storage
+* Fast System Performance
+* Data Integrity and Reliability
+* Scalability for Multiple Users
+
+---
+
+## Objective Definition
+
+### Main Objective
+
+To develop a web-based Academic Project Tracking and Management Portal that simplifies project management and enables efficient monitoring of academic projects from proposal submission to final evaluation.
+
+### Specific Objectives
+
+* To provide secure access for students, faculty guides, and administrators.
+* To enable online project proposal submission and approval.
 * To facilitate guide assignment and project supervision.
-* To monitor project progress through regular updates.
+* To monitor project progress through periodic updates.
 * To provide review and feedback mechanisms.
-* To maintain project records securely.
-* To generate project-related reports efficiently.
+* To store project documents securely.
+* To generate project-related reports and status summaries.
+* To improve communication and collaboration among stakeholders.
 
-## 4. System Architecture and Functional Modules
+---
 
-### Authentication and Access Control
+## User and Module Identification
 
-Provides secure login and access management for students, faculty guides, and administrators.
+### Users
 
-### Project Proposal Management
+#### Student
 
-Allows students to submit project proposals and project-related information for approval.
+* Submit project proposals.
+* Upload project documents and reports.
+* Track project progress.
+* View guide feedback.
 
-### Faculty Guide Allocation
+#### Faculty Guide
 
-Enables administrators to assign faculty guides to student projects based on department or specialization.
+* Review project proposals.
+* Monitor project progress.
+* Provide feedback and recommendations.
+* Evaluate project submissions.
 
-### Progress Monitoring System
+#### Administrator
 
-Tracks project milestones, progress updates, and completion status throughout the project lifecycle.
+* Manage students and faculty guides.
+* Assign guides to projects.
+* Monitor project activities.
+* Generate reports.
 
-### Document Repository
+### Modules
 
-Provides a secure platform for uploading, storing, and accessing project documents and reports.
+#### User Management Module
 
-### Review and Assessment System
+Handles user registration, login, and role-based access control.
 
-Allows faculty guides to review project submissions and provide feedback and recommendations.
+#### Project Proposal Module
 
-### Evaluation Management
+Allows students to submit project proposals for approval.
 
-Maintains project evaluation records, review marks, and assessment results.
+#### Guide Assignment Module
 
-### Analytics and Reporting
+Assigns faculty guides to student projects.
 
-Generates project status reports, progress summaries, and evaluation reports.
+#### Progress Tracking Module
 
-### Administrative Dashboard
+Tracks project milestones and progress updates.
 
-Provides administrators with an overview of all project activities and system statistics.
+#### Document Management Module
 
-### Data Management Layer
+Manages project reports and supporting documents.
 
-Manages the storage, retrieval, and maintenance of project-related data within the database.
+#### Review and Feedback Module
 
-## 5. Data Model and Storage Design
+Facilitates project reviews and faculty feedback.
 
-### User Information Repository
+#### Project Evaluation Module
 
-Stores information related to students, faculty guides, and administrators.
+Maintains project assessment and evaluation records.
 
-### Project Information Repository
+#### Reporting Module
 
-Maintains project details such as title, domain, description, and status.
+Generates project status and performance reports.
 
-### Faculty Information Repository
+#### Dashboard Module
 
-Stores faculty guide details and project assignments.
-
-### Progress Tracking Repository
-
-Maintains project progress updates, milestones, and review information.
-
-### Entity Relationships
-
-Defines relationships between users, projects, guides, and progress records for efficient data management.
-
-### Data Integrity Constraints
-
-Ensures data consistency using primary keys, foreign keys, and unique constraints.
-
-## 6. System Design Diagram
-
-The ER Diagram visually represents the entities, attributes, and relationships involved in the Academic Project Tracking and Management Portal database structure.
-
-## 7. Development Environment and Technology Stack
-
-### Client-Side Technologies
-
-HTML, CSS, JavaScript, and Bootstrap are used to develop responsive and user-friendly web interfaces.
-
-### Server-Side Technologies
-
-PHP is used to process requests, manage business logic, and communicate with the database.
-
-### Database Technologies
-
-MySQL is used to store and manage project, user, and evaluation data.
-
-### Hosting Environment
-
-Apache Server through XAMPP is used to host and execute the web application.
-
-### Development Utilities
-
-Visual Studio Code, GitHub, phpMyAdmin, and Postman are used for coding, database management, version control, and testing.
-
-## 8. Core Functionalities
-
-The system provides features such as user registration, project proposal submission, guide assignment, progress tracking, document uploads, project reviews, evaluations, dashboard monitoring, and report generation.
-
-## 9. System Execution Flow
-
-The workflow begins with user registration and login, followed by project proposal submission, guide assignment, project approval, progress updates, document uploads, faculty reviews, project evaluation, report generation, and project completion.
-
-## 10. Project Implementation Status
-
-### Completed Activities
-
-* Project Title Finalization
-* Requirement Gathering
-* Technology Stack Selection
-
-### Ongoing Activities
-
-* Objective Definition
-* Module Design
-* Database Design
-* ER Diagram Preparation
-
-### Planned Activities
-
-* Front-End Development
-* Back-End Development
-* Database Implementation
-* System Testing
-* Deployment
-
-##
+Provides an overview of project activities and system statistics.
 
 
