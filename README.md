@@ -1,3 +1,5 @@
+**STUDENT PERFORMANCE TRACKING SYSTEM**
+
 Project Title: Student Performance Tracking System
 
 The project title was selected to represent a web-based system that monitors, records, and analyzes student academic performance. The system focuses on attendance tracking, marks management, performance evaluation, progress monitoring, report generation, and academic improvement support. The title clearly reflects the system's purpose of tracking and managing student performance efficiently within educational institutions.
