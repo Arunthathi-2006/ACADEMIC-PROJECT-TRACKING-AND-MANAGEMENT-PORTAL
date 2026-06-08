@@ -1,120 +1,105 @@
-# ACADEMIC PROJECT TRACKING AND MANAGEMENT PORTAL
+Project Title: Student Performance Tracking System
 
-## Project Title Finalization
+The project title was selected to represent a web-based system that monitors, records, and analyzes student academic performance. The system focuses on attendance tracking, marks management, performance evaluation, progress monitoring, report generation, and academic improvement support. The title clearly reflects the system's purpose of tracking and managing student performance efficiently within educational institutions.
 
-**Project Title:** Academic Project Tracking and Management Portal
+Requirement Gathering
 
-The project title was selected to represent a web-based system that manages the complete lifecycle of academic projects. The portal focuses on project proposal submission, guide allocation, progress monitoring, document management, review processes, and project evaluation. The title clearly reflects the system's purpose of tracking and managing academic projects efficiently within educational institutions.
+Student performance is often managed using manual records, spreadsheets, and paper-based reports. This traditional approach creates challenges such as difficulty in monitoring academic progress, maintaining student records, analyzing performance trends, and generating timely reports.
 
----
+The Student Performance Tracking System was proposed to overcome these challenges by providing a centralized digital platform. The system enables efficient student record management, real-time performance monitoring, automated report generation, and better communication between students, teachers, and administrators.
 
-## Requirement Gathering
+Functional Requirements
+User Registration and Login
+Student Profile Management
+Attendance Tracking
+Marks and Grade Management
+Performance Monitoring
+Academic Progress Analysis
+Report Card Generation
+Notifications and Alerts
+Non-Functional Requirements
+User-Friendly Interface
+Secure Data Storage
+Fast System Performance
+Data Accuracy and Reliability
+Scalability for Multiple Users
+Objective Definition
+Main Objective
 
-Academic projects are often managed manually through paper documents, spreadsheets, and email communication. This approach creates challenges such as difficulty in tracking project progress, maintaining project records, monitoring reviews, and coordinating between students and faculty guides.
+To develop a web-based Student Performance Tracking System that simplifies student performance management and enables efficient monitoring of academic progress through attendance, marks, grades, and performance reports.
 
-The Academic Project Tracking and Management Portal was proposed to address these challenges by providing a centralized digital platform. The system enables efficient project management, secure document storage, real-time progress tracking, and streamlined communication among all stakeholders.
+Specific Objectives
+To provide secure access for students, teachers, and administrators.
+To maintain student academic and attendance records.
+To record and manage examination marks and grades.
+To monitor student performance continuously.
+To generate performance reports and report cards.
+To identify strengths and areas requiring improvement.
+To provide notifications regarding academic performance.
+To improve communication among students, teachers, and administrators.
+User and Module Identification
+Users
+Student
+View attendance records.
+Check marks and grades.
+Monitor academic progress.
+View performance reports and feedback.
+Teacher
+Manage student attendance.
+Enter marks and grades.
+Monitor student performance.
+Provide feedback and recommendations.
+Administrator
+Manage students and teachers.
+Monitor academic records.
+Generate performance reports.
+Maintain system data and settings.
+Modules
+User Management Module
 
-### Functional Requirements
+Handles user registration, login, authentication, and role-based access control.
 
-* User Registration and Login
-* Project Proposal Submission
-* Guide Assignment
-* Progress Tracking
-* Document Upload and Storage
-* Review and Feedback Management
-* Project Evaluation
-* Report Generation
+Student Management Module
 
-### Non-Functional Requirements
+Maintains student personal and academic information.
 
-* User-Friendly Interface
-* Secure Data Storage
-* Fast System Performance
-* Data Integrity and Reliability
-* Scalability for Multiple Users
+Attendance Management Module
 
----
+Records and tracks student attendance details.
 
-## Objective Definition
+Marks Management Module
 
-### Main Objective
+Manages examination marks, grades, and assessment records.
 
-To develop a web-based Academic Project Tracking and Management Portal that simplifies project management and enables efficient monitoring of academic projects from proposal submission to final evaluation.
+Performance Analysis Module
 
-### Specific Objectives
+Analyzes student academic performance and progress trends.
 
-* To provide secure access for students, faculty guides, and administrators.
-* To enable online project proposal submission and approval.
-* To facilitate guide assignment and project supervision.
-* To monitor project progress through periodic updates.
-* To provide review and feedback mechanisms.
-* To store project documents securely.
-* To generate project-related reports and status summaries.
-* To improve communication and collaboration among stakeholders.
+Feedback Management Module
 
----
+Facilitates teacher feedback and academic recommendations.
 
-## User and Module Identification
+Report Generation Module
 
-### Users
+Generates report cards, performance summaries, and academic reports.
 
-#### Student
+Notification Module
 
-* Submit project proposals.
-* Upload project documents and reports.
-* Track project progress.
-* View guide feedback.
+Sends alerts regarding attendance shortages, low performance, and important academic updates.
 
-#### Faculty Guide
+Dashboard Module
 
-* Review project proposals.
-* Monitor project progress.
-* Provide feedback and recommendations.
-* Evaluate project submissions.
+Provides an overview of student performance statistics, attendance summaries, and academic insights.
 
-#### Administrator
+Expected Outcomes
+Improved monitoring of student academic performance.
+Accurate maintenance of attendance and marks records.
+Faster report generation process.
+Better communication between students and teachers.
+Easy identification of high-performing and struggling students.
+Enhanced decision-making through performance analysis.
+Reduced paperwork and manual record management.
+Increased efficiency in academic administration.
 
-* Manage students and faculty guides.
-* Assign guides to projects.
-* Monitor project activities.
-* Generate reports.
-
-### Modules
-
-#### User Management Module
-
-Handles user registration, login, and role-based access control.
-
-#### Project Proposal Module
-
-Allows students to submit project proposals for approval.
-
-#### Guide Assignment Module
-
-Assigns faculty guides to student projects.
-
-#### Progress Tracking Module
-
-Tracks project milestones and progress updates.
-
-#### Document Management Module
-
-Manages project reports and supporting documents.
-
-#### Review and Feedback Module
-
-Facilitates project reviews and faculty feedback.
-
-#### Project Evaluation Module
-
-Maintains project assessment and evaluation records.
-
-#### Reporting Module
-
-Generates project status and performance reports.
-
-#### Dashboard Module
-
-Provides an overview of project activities and system statistics.
 
 
